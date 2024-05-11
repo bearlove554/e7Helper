@@ -11,9 +11,9 @@ import shutil
 from datetime import datetime
 
 # 懒人精灵项目路径
-projectPath = r'E:\todo_files\game_script\E7\test'
+projectPath = r'D:\BaiduNetdiskDownload\懒人精灵高级版1.4.3\script'
 # 懒人精灵项目打包路径
-packagePath = r'F:\懒人精灵\懒人精灵3.8.7.1\懒人精灵3.8.7.1\out\script.lr'
+packagePath = r'D:\BaiduNetdiskDownload\out\script.lr'
 
 # https://gitcode.net/otato001/e7hepler.git
 # https://gitea.com/boluoii/e7Helper.git

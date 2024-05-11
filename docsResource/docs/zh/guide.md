@@ -9,7 +9,7 @@
 ### 此APP工具源码: [地址](https://github.com/boluokk/e7Helper) （好用就给个star吧，你的star会是作者的最大帮助）👍
 
 ### 最近更新: 
-- update doc
+- 彭↗浩↘博——你可知道，我伤悲？！！
 
 ## 设备兼容
 

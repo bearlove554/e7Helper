@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<lcproj projname="script" appname="e7phb" autorotate="true" autorun="1" autorunscript="0" cputype="2" is_acc_mode="0" isdebugapkplugin="0" jmpjdcheck="1" localmode="true" pkgname="org.boluo.e7" pluginapkpath="" rgbmode="false" sel="1" showfloatcontrol="1" showhome="1" targetsize="0x0" updateurl="" useocr="1" useoldmenu="0" ver="113" icon="D:\BaiduNetdiskDownload\懒人精灵高级版1.4.3\script\11111.png" bootrun="1" removeocr="0" op_rootmode="1" op_byhandlemode="0" op_accmode="0" isrunrootenv="1" is_usedebug_activity="false" control_img_fill="0" is_notshow_hostui="0" is_volctrl="0" def_checked_nodeser="0" def_checked_recordlog="1" def_checked_useroot="1" not_show_float="0" del_ncnn="0" del_onnx="0" vir_wid="0" vir_hei="0">
+    <lua entry="main.lua">
+        <file name="util.lua"/>
+        <file name="point.lua"/>
+        <file name="path.lua"/>
+        <file name="test.lua"/>
+        <file name="userinterface.lua"/>
+    </lua>
+    <rc entry="main.rc"/>
+    <ui entry="main.ui"/>
+    <luae entry="">
+        <file name="armeabi-v7a"/>
+        <file name="x86"/>
+    </luae>
+    <luaej/>
+</lcproj>
