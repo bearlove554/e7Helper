@@ -6,9 +6,9 @@ time = systemTime
 
 -- 热更源
 update_source_arr = {
-  --'https://gitee.com/boluokk/e7_helper/raw/master/',
-  --'https://gitea.com/boluoii/e7Helper/raw/branch/master/',
-  --'https://gitcode.net/otato001/e7hepler/-/raw/master/',
+  'https://gitee.com/bearlove554/e7_helper/raw/master/',
+  'https://gitea.com/bearlove554/e7Helper/raw/branch/master/',
+  'https://gitcode.net/bearlove554/e7hepler/-/raw/master/',
 }
 update_source = table.remove(update_source_arr, math.random(1, #update_source_arr))
 update_source_fallback = table.remove(update_source_arr, math.random(1, #update_source_arr))
@@ -16,7 +16,7 @@ click_start_tip = '彭浩博，你可知道我伤悲'
 -- apk level 限制
 is_apk_old = function() return getApkVerInt() < 0 end
 apk_old_warning = "怎么还有人用" .. getApkVerInt()
-release_date = "05.11 17:30"
+release_date = "05.11 17:51"
 release_content = '新版竞技场UI修改, 热更开启'
 -- 获取workPath
 root_path = getWorkPath() .. '/'
